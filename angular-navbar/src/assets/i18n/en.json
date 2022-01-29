@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "companyName": "Translation demo",
+    "items": {
+      "home": "Home",
+      "features": "Features",
+      "pricing": "Pricing",
+      "FAQs":"FAQs",
+      "about":"About"
+    }
+  },
+  "inputs":{
+    "placeHolders":{
+      "search":"Search..."
+    }
+  },
+  "buttons":{
+    "login":"Login",
+    "sign-up":"Sign-up"
+  }
+}

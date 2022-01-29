@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "companyName": "Translation demo",
+    "items": {
+      "home": "La Casa",
+      "features": "Carateristicas",
+      "pricing": "Precios",
+      "FAQs":"FAQs",
+      "about":"Sobre"
+    }
+  },
+  "inputs":{
+    "placeHolders":{
+      "search":"El Busquedas..."
+    }
+  },
+  "buttons":{
+    "login":"El Loguines",
+    "sign-up":"El Registros"
+  }
+}
